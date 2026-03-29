@@ -1,0 +1,9 @@
+bert_sentiment/
+bert_sentiment_final/
+sentiment140.zip
+training.1600000.processed.noemoticon.csv
+__pycache__/
+*.pyc
+.env
+venv/
+.ipynb_checkpoints/
